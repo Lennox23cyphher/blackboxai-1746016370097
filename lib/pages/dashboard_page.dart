@@ -8,16 +8,16 @@ class DashboardPage extends StatelessWidget {
 
   final List<Map<String, String>> courses = [
     {
-      'title': 'Mathematics',
-      'content': 'Mathematics reading material: Algebra, Calculus, Geometry...',
+      'title': 'Linear Algebra',
+      'content': 'Linear Algebra reading material: Vector spaces, Matrices, Eigenvalues...',
     },
     {
-      'title': 'Physics',
-      'content': 'Physics reading material: Mechanics, Thermodynamics, Optics...',
+      'title': 'Mobile App Development',
+      'content': 'Mobile App Development reading material: Flutter, Dart, UI design, State management...',
     },
     {
-      'title': 'Chemistry',
-      'content': 'Chemistry reading material: Organic, Inorganic, Physical Chemistry...',
+      'title': 'Calculus',
+      'content': 'Calculus reading material: Limits, Derivatives, Integrals, Series...',
     },
   ];
 
